@@ -6,7 +6,6 @@ from newspaper import Article
 from pymongo import MongoClient
 
 import datetime
-import json 
 
 from dotenv import load_dotenv
 import os
